@@ -21,6 +21,7 @@ This project presents the design and simulation of a **2-element slot-fed micros
 ---
 
 ## Design Procedure
+![image](https://github.com/user-attachments/assets/c86ab219-beea-484b-9fd3-3554cddd8fed)
 The design process involves the following key steps:
 
 ### **1. Substrate Selection**
@@ -48,6 +49,7 @@ The design process involves the following key steps:
   - **Length:** 3.6 mm
 
 ### **5. Power Divider**
+![image](https://github.com/user-attachments/assets/6b0e3c14-16bb-437f-bc1f-4c5ddf934859)
 - **T-junction power divider** with **impedance matching** to ensure uniform power distribution.
 - **Final impedance after optimization:** Zo = 41 Ω.
 - **Width of lateral microstrip:** 2.9 mm.
@@ -101,6 +103,7 @@ An **equivalent circuit model** was developed in **ADS (Advanced Design System)*
 - **C1:** 4.46897 fF, **C2:** 85.66319 fF
 
 The model was fine-tuned to closely match the **antenna's return loss (S11) performance**.
+![image](https://github.com/user-attachments/assets/a1cfae75-75ac-4ca9-928a-70af1157fd97)
 
 ---
 
