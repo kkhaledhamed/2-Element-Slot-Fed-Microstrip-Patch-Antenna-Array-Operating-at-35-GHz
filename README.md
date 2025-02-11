@@ -22,6 +22,7 @@ This project presents the design and simulation of a **2-element slot-fed micros
 
 ## Design Procedure
 ![image](https://github.com/user-attachments/assets/c86ab219-beea-484b-9fd3-3554cddd8fed)
+
 The design process involves the following key steps:
 
 ### **1. Substrate Selection**
@@ -111,6 +112,11 @@ The model was fine-tuned to closely match the **antenna's return loss (S11) perf
 - **Beamforming Integration:** Extend the design for **dynamic beam steering**.
 - **Multi-Band Operation:** Modify the design to support **multiple frequency bands**.
 - **Advanced Feeding Networks:** Explore alternative feeding techniques for **better impedance matching and bandwidth enhancement**.
+
+---
+
+## Final Design Layout
+![image](https://github.com/user-attachments/assets/e58104d3-f664-4d60-ab37-5deb402e5275)
 
 ---
 
