@@ -1,4 +1,4 @@
-# 2-Element Slot-Fed Microstrip Patch Antenna Array at 35 GHz
+# 2-Element Slot-Fed Microstrip Patch Antenna Array Operating at 35 GHz
 
 ## Project Overview
 This project presents the design and simulation of a **2-element slot-fed microstrip patch antenna array** operating at **35 GHz** for millimeter-wave applications such as **5G communications, radar systems, and high-speed wireless networks**. The slot-coupled feeding mechanism enhances **bandwidth, impedance matching, and gain**, ensuring an optimized directional radiation pattern.
