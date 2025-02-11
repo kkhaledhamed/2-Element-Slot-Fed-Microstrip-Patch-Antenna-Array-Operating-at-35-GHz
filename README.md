@@ -132,7 +132,7 @@ Software used: HFSS
 - **Khaled Ahmed Hamed**
 - **Dalia Mohamed Soliman**
 - **[Zeyad Antar Othman](https://github.com/iiZ3)**
-- **Zeyad Ashraf Abdelaziz**
+- **[Zeyad Ashraf Abdelaziz](https://github.com/Zozka-diff)**
 - **[Sarah Abdelatty Ibrahem](https://github.com/SarahAbelatty)**
 - **[Ali Mohamed Mohamed Said](https://github.com/Ali-Mohamed-cairo)**
 
