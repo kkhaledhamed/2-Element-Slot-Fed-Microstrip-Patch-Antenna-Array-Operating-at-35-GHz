@@ -131,7 +131,7 @@ The model was fine-tuned to closely match the **antenna's return loss (S11) perf
 ## Team Members
 - **Khaled Ahmed Hamed**
 - **Dalia Mohamed Soliman**
-- **Zeyad Ashraf Abdelaziz**
+- **[Zeyad Ashraf Abdelaziz](https://github.com/iiZ3)**
 - **Zeyad Antar Othman**
 - **Sarah Abdelatty Ibrahem**
 - **Ali Mohamed Mohamed Said**
