@@ -105,7 +105,7 @@ An **equivalent circuit model** was developed in **ADS (Advanced Design System)*
 
 The model was fine-tuned to closely match the **antenna's return loss (S11) performance**.
 ![image](https://github.com/user-attachments/assets/a1cfae75-75ac-4ca9-928a-70af1157fd97)
-
+Software used: ADS
 ---
 
 ## Future Work
@@ -117,7 +117,7 @@ The model was fine-tuned to closely match the **antenna's return loss (S11) perf
 
 ## Final Design Layout
 ![image](https://github.com/user-attachments/assets/e58104d3-f664-4d60-ab37-5deb402e5275)
-
+Software used: HFSS
 ---
 
 ## References
@@ -131,10 +131,10 @@ The model was fine-tuned to closely match the **antenna's return loss (S11) perf
 ## Team Members
 - **Khaled Ahmed Hamed**
 - **Dalia Mohamed Soliman**
-- **[Zeyad Ashraf Abdelaziz](https://github.com/iiZ3)**
-- **Zeyad Antar Othman**
-- **Sarah Abdelatty Ibrahem**
-- **Ali Mohamed Mohamed Said**
+- **[Zeyad Antar Othman](https://github.com/iiZ3)**
+- **Zeyad Ashraf Abdelaziz**
+- **[Sarah Abdelatty Ibrahem](https://github.com/SarahAbelatty)**
+- **[Ali Mohamed Mohamed Said](https://github.com/Ali-Mohamed-cairo)**
 
 ### **Supervisor**
 - **Prof. Eslam A. Eshrah**
