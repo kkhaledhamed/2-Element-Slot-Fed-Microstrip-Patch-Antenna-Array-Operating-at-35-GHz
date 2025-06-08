@@ -117,10 +117,7 @@ Software used: ADS
 
 ## Final Design Layout
 ![image](https://github.com/user-attachments/assets/e58104d3-f664-4d60-ab37-5deb402e5275)
----
-## Software used: 
-- HFSS
-- ADS
+## Software used: HFSS
 ---
 
 ## References
