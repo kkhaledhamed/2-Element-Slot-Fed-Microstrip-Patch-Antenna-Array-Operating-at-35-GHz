@@ -128,9 +128,8 @@ Software used: HFSS
 
 ---
 
-## Team Members
-- **Khaled Ahmed Hamed**
-- **Dalia Mohamed Soliman**
+## With special thanks to other team members :
+- **[Dalia Mohamed Soliman](https://github.com/Mercy662003)**
 - **[Zeyad Antar Othman](https://github.com/iiZ3)**
 - **[Zeyad Ashraf Abdelaziz](https://github.com/Zozka-diff)**
 - **[Sarah Abdelatty Ibrahem](https://github.com/SarahAbelatty)**
